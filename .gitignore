@@ -7,3 +7,5 @@
 # Ignore Java compiled files
 *.class
 *.jar
+
+tempCodeRunnerFile.cpp
