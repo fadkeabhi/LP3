@@ -1,0 +1,9 @@
+# Ignore C++ compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore Java compiled files
+*.class
+*.jar
